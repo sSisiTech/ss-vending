@@ -1,5 +1,5 @@
 # ss-vending
- A FiveM resource that adds working vending machines to your server.
+ A FiveM - QBCore resource that adds working vending machines to your server.
 
  ## Requirements
  * QBCore
@@ -8,9 +8,9 @@
 
 ## Installation
 * Download ss-vending
-* Place the folder inside your resources folder
-* remove -main from ss-vending-main
-* add `ensure ss-vending` to your server.cfg
+* Extract the `ss-vending-main` folder inside your resources folder
+* remove `-main` from `ss-vending-main`
+* add `ensure ss-vending` to your `server.cfg`
 
 ## Configuration
 The script is very easy to modify and requires 0 coding knowledge.
