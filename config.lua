@@ -1,4 +1,6 @@
-Config = {}
+Config = {
+    successmessage = true, -- Show success message after purchase (true or false)
+}
 
 Config.Products = {
     Cola = {name = 'Cola', price = 2, itemname = 'kurkakola'},
